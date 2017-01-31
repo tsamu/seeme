@@ -1,7 +1,15 @@
 # seeme
-SeeMe SMS gateway
+SeeMe SMS gateway, without dependency.
 
-Usage:
+cURL php library is required:
+```sh
+sudo apt-get install php5-curl
+```
+Installation:
+```sh
+composer require tsamu/seeme 
+```
+PHP example:
 ```php
 use SeeMe\SeeMeGateway;
 require 'vendor/autoload.php';
