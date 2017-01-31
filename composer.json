@@ -1,0 +1,12 @@
+{
+    "name": "tsamu/seeme",
+    "description": "SeeMe SMS gateway",
+    "authors": [
+        {
+            "name": "tsamu",
+            "email": "tsamu@freemail.hu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
